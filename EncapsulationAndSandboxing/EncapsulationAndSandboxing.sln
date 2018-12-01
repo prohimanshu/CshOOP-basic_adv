@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationAndSandboxing", "EncapsulationAndSandboxing\EncapsulationAndSandboxing.csproj", "{88378859-F274-447A-B253-9AB9E39F855F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88378859-F274-447A-B253-9AB9E39F855F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88378859-F274-447A-B253-9AB9E39F855F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88378859-F274-447A-B253-9AB9E39F855F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88378859-F274-447A-B253-9AB9E39F855F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76DD1100-5DBD-4F3E-8E62-6A6F6529C7DE}
+	EndGlobalSection
+EndGlobal
