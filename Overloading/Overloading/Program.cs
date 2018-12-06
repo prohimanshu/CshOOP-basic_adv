@@ -15,6 +15,9 @@ namespace Overloading
             Constructor con = new Constructor();
             Constructor con1 = new Constructor(10);
             Constructor con2 = new Constructor(10,"Himanshu");
+
+            Mix mx = new Mix(1000, "Himanshu");
+            mx.Show();
         }
     }
 }
