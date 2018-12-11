@@ -7,7 +7,7 @@ namespace Multi_Level_Inheritance
     {
         static void Main(string[] args)
         {
-            ClassA ca = new ClassA();
+            ClassA ca = new ClassA();// call ClassA
 
         }
     }
